@@ -1,5 +1,5 @@
 {
-  "name": "@inertiajs/vue3",
+  "name": "@southcoastweb/inertia-meta-fix-vue3",
   "version": "1.0.2",
   "license": "MIT",
   "description": "The Vue 3 adapter for Inertia.js",
